@@ -1,0 +1,35 @@
+
+
+.container{
+    border: 2px solid;
+    height: 48vh;
+    background-image: url('../assets/2.jpg');
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    overflow: overlay;
+    scroll-behavior: smooth;
+    
+}
+.container1{
+    border: 2px solid;
+    height: 48vh;
+    background-image: url(https://www.zastavki.com/pictures/originals/2023/Backgrounds_Smooth_wooden_planks_for_the_background_157341_.jpg);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    overflow: overlay;
+    scroll-behavior: smooth;
+    
+}
+.container>h1{
+    font-size: 30px;
+    -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: rgb(255, 252, 252);
+  font-weight: 900;
+  
+  
+}
+button{
+    border-radius: 10px;
+}

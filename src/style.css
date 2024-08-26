@@ -1,0 +1,9 @@
+body {
+  font-family: "Helvetica", Sans-Serif;
+  
+}
+.wrapper{
+  display: grid;
+  gap: 10px;
+  grid-template-columns:  auto 50%;
+}
